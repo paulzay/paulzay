@@ -1,16 +1,22 @@
-### Hi there, I'm Paul Ogolla👋
-## Pronouns (He/Him)
-<!--
-**paulzay/paulzay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Paul Ogolla 
 
-Here are some ideas to get you started:
+Hi there 👋, I'm a fullstack software developer looking for his next (preferably remote)role.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages and Tools:**  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/ruby/ruby.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
+
+- 🔭 I’m currently working on Testing Ruby with Rspec
+- 🌱 I’m currently learning Cloud Computing with GCP & Machine Learning with Microsoft Azure
+- 💬 Ask me about Harry Potter
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I can't say I'm self-taught because Google and Youtube would be offended
+
+**How to reach me:**  
+- Github: [@paulzay](https://github.com/paulzay)
+- Twitter: [@_paulzay_](https://twitter.com/_paulzay_)
+- Linkedin: [Paul Ogolla](https://linkedin.com/in/paulogolla)
