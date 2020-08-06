@@ -11,10 +11,10 @@ Hi there 👋, I'm a fullstack software developer looking for his next (preferab
 
 
 - 🔭 I’m currently working on Ruby on Rails
-- 🌱 I’m currently learning Cloud Computing with GCP & Machine Learning with Microsoft Azure
+- 🌱 I’m currently learning Cloud Computing with GCP 
 - 💬 Ask me about Harry Potter
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can't say I'm self-taught because Google and Youtube would be offended
+- ⚡ Fun fact: Practice makes muscle memory
 
 **How to reach me:**  
 - Github: [@paulzay](https://github.com/paulzay)
