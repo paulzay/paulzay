@@ -10,7 +10,7 @@ Hi there 👋, I'm a fullstack software developer looking for his next (preferab
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-- 🔭 I’m currently working on a React on Rails app.
+- 🔭 I’m currently working on Rails.
 - 🌱 I’m currently learning Cloud Computing with GCP 
 - 💬 Ask me about Harry Potter
 - 😄 Pronouns: He/Him
