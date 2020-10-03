@@ -16,7 +16,7 @@ Hi there 👋, I'm a fullstack software developer looking for his next (preferab
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-- 🔭 I’m currently working on myself.
+- 🔭 I’m currently a student at Microverse.
 - 🌱 I’m currently learning Javascript 
 - 💬 Ask me about Harry Potter
 - 😄 Pronouns: He/Him
