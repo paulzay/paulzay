@@ -1,6 +1,6 @@
 ### Paul Ogolla 
 
-Hi there 👋, I'm a fullstack software developer looking for his next (preferably remote)role.
+Hi there 👋, I'm a fullstack software engineer looking for his next role.
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -17,10 +17,10 @@ Hi there 👋, I'm a fullstack software developer looking for his next (preferab
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 - 🔭 I’m currently a student at Microverse.
-- 🌱 I’m currently learning Javascript 
-- 💬 Ask me about Harry Potter
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Whether you decide to do it or not, time will still pass.
+- 🌱 I’m currently learning Javascript & React.js. 
+- 💬 Ask me about Harry Potter.
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: I think therefore I am.
 
 **How to reach me:**  
 - Github: [@paulzay](https://github.com/paulzay)
