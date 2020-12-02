@@ -17,7 +17,7 @@ Hi there 👋, I'm a fullstack software engineer looking for his next role.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 - 🔭 I’m currently a student at Microverse.
-- 🌱 I’m currently learning Javascript & React.js. 
+- 🌱 I’m currently learning React.js and Redux. 
 - 💬 Ask me about Harry Potter.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I think therefore I am.
