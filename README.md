@@ -19,7 +19,7 @@ Hi there 👋, I'm a fullstack software engineer looking for his next role.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 - 🌱 I’m currently learning Typescript and Graphql. 
-- 💬 Ask me about anything really. Always down for a good convo.
+- 💬 Ask me about code.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I do not think therefore I do not am.
 
