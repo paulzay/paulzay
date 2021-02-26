@@ -1,6 +1,6 @@
 ### Paul Ogolla 
 
-Hi there 👋, I'm a fullstack software engineer looking for his next role.
+Hi there! 👋, I'm a fullstack software engineer looking for his next role.
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -25,5 +25,4 @@ Hi there 👋, I'm a fullstack software engineer looking for his next role.
 
 **How to reach me:**  
 - Github: [@paulzay](https://github.com/paulzay)
-- Twitter: [@_paulzay_](https://twitter.com/_paulzay_)
 - Linkedin: [Paul Ogolla](https://linkedin.com/in/paulogolla)
