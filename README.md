@@ -23,6 +23,11 @@ Hi there! 👋, I'm a fullstack software engineer looking for his next role.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I do not think therefore I do not am.
 
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=paulzay&show_icons=true&hide_border=true" />
+
+
 **How to reach me:**  
-- Github: [@paulzay](https://github.com/paulzay)
-- Linkedin: [Paul Ogolla](https://linkedin.com/in/paulogolla)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/paulzay)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paulogolla/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:paulotieno2@gmail.com)
+
