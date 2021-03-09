@@ -1,6 +1,6 @@
 ### Paul Ogolla 
 
-Hi there! 👋, I'm a fullstack software engineer and I'm available for hire/open to remote opportunities.. I'm a big fan of cloud computing, artificial intelligence and machine learning.
+Hi there! 👋, I'm a fullstack software engineer and I'm available for hire/open to remote opportunities. I'm a big fan of cloud computing, artificial intelligence and machine learning.
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
