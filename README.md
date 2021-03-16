@@ -18,7 +18,7 @@ Hi there! 👋, I'm a fullstack software engineer and I'm available for hire/ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-- 🌱 I’m currently learning Mobile Development. 
+- 🌱 I’m currently learning Mobile Development and AWS.
 - 💬 Ask me about code.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I do not think therefore I do not am.
