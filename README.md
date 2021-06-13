@@ -19,7 +19,7 @@ Hi there! 👋, I'm a full-stack software engineer and I'm available for hire/op
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 - 🌱 I’m currently learning Mobile Development and AWS.
-- 💬 Ask me about anything really.
+- 💬 Ask me about Gravity Falls.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I do not think therefore I do not am.
 
