@@ -1,11 +1,17 @@
-### Paul Ogolla 
-
-Hi there! 👋, I'm a full-stack software engineer and I'm available for hire/open to remote opportunities. 
-
 [![organism:human](https://img.shields.io/badge/organism-human-%238D5524)](https://img.shields.io/badge/organism-human-%238D5524)
 [![life:passing](https://img.shields.io/badge/life%20-passing-%2335B142)](https://img.shields.io/badge/life%20-passing-%2335B142)
 [![workload:99%](https://img.shields.io/badge/work--load-99%25-%23CF692A)](https://img.shields.io/badge/work--load-99%25-%23CF692A)
 [![social-life:inavtive](https://img.shields.io/badge/social--life-inactive-lightgrey)](https://img.shields.io/badge/social--life-inactive-lightgrey)
+
+### Hi there! 👋
+
+My name is Paul and I'm a Software Engineer with 2-3 years of industry experience.
+
+Currently I am available for hire/open to remote opportunities.
+
+My areas of interest are:
+- Full Stack Web Development
+- Mobile Development with Flutter
 
 
 **Languages and Tools:**  
