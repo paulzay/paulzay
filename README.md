@@ -5,9 +5,7 @@
 
 ### Hi there! 👋
 
-My name is Paul and I'm a Software Engineer with 2-3 years of industry experience.
-
-Currently I am available for hire/open to remote opportunities.
+My name is Paul and I'm a solutions expert but I also go by Software Engineer.
 
 My areas of interest are:
 - Full Stack Web Development
@@ -31,11 +29,9 @@ My areas of interest are:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 - 🌱 I’m currently learning Mobile Development and AWS.
-- 💬 Ask me about Gravity Falls.
+- 💬 Ask me about anything(as long as I'm allowed to Google it).
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I do not think therefore I do not am.
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=paulzay&show_icons=true&hide_border=true" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulzay&show_icons=true&theme=light&layout=compact&hide_title=true)](https://github.com/paulzay)
 
  <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=paulzay&badges=2&show-avatar=true&style=--header-bg-color:%23000;--border-radius:5px"
