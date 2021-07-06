@@ -33,9 +33,8 @@ My areas of interest are:
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I do not think therefore I do not am.
 
- <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=paulzay&badges=2&show-avatar=true&style=--header-bg-color:%23000;--border-radius:5px"
-/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=paulzay&show_icons=true&hide_border=true" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulzay&show_icons=true&theme=light&layout=compact&hide_title=true)](https://github.com/paulzay)
+
  
 **How to reach me:**  
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/paulzay)
