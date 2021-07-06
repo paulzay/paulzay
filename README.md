@@ -38,7 +38,7 @@ My areas of interest are:
 
  
 **How to reach me:**  
-[![Twitter Badge](https://img.shields.io/badge/-Raghav-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/_paulay_)](https://twitter.com/_raghavit)
+![Twitter Follow](https://img.shields.io/twitter/follow/_paulzay_?style=social)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paulogolla/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:paulotieno2@gmail.com)
 
