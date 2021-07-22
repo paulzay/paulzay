@@ -9,7 +9,7 @@ My name is Paul and I'm a solutions expert but I also go by Software Engineer.
 
 My areas of interest are:
 - Full Stack Web Development
-- Mobile Development with Flutter
+- Mobile Development with Flutter & Kotlin
 
 
 **Languages I use**
@@ -29,7 +29,7 @@ My areas of interest are:
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 
-- 🌱 I’m currently learning Mobile Development and AWS.
+- 🌱 I’m currently learning Mobile Development.
 - 💬 Ask me about anything(as long as I'm allowed to Google it).
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I do not think therefore I do not am.
