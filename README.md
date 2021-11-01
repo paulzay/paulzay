@@ -29,7 +29,7 @@ I'm currently looking for new opportunities and my areas of interest are:
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-- 🌱 I’m currently learning Mobile Development.
+- 🌱 I’m currently learning Bitcoin Development.
 - 💬 Ask me about anything(as long as I'm allowed to Google it).
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I do not think therefore I do not am.
