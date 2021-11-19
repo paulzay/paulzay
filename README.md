@@ -7,11 +7,11 @@
 
 My name is Paul and I'm a solutions expert but I also go by Software Engineer.
 
-I'm currently looking for new opportunities and my areas of interest are:
+My areas of interest are:
 
 - Full Stack Web Development
 - Mobile Development with Flutter & Kotlin
-
+- Bitcoin, Blockchain & Lightning Development
 
 **Languages I use**
 
