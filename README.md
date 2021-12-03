@@ -11,7 +11,6 @@ My areas of interest are:
 
 - Full Stack Web Development
 - Mobile Development with Flutter & Kotlin
-- Bitcoin, Blockchain & Lightning Development
 
 **Languages I use**
 
