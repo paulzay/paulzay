@@ -37,7 +37,7 @@ My areas of interest are:
 
 ***Blog***
 
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@paulzay)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://paulzay.hashnode.dev/)
  
 **How to reach me:**  
 ![Twitter Follow](https://img.shields.io/twitter/follow/_paulzay_?style=social)
