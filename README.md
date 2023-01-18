@@ -38,8 +38,8 @@ My areas of interest are:
 
 
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=paulzay&show_icons=true&hide_border=true" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulzay&show_icons=true&theme=light&layout=compact&hide_title=true)](https://github.com/paulzay)
-
+<!-- <img width="50%" src="https://github-readme-stats.vercel.app/api?username=paulzay&show_icons=true&hide_border=true" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulzay&show_icons=true&theme=light&layout=compact&hide_title=true)](https://github.com/paulzay)
+ -->
 
 
 ***Blog***
