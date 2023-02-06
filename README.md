@@ -41,7 +41,7 @@ My areas of interest are:
 <!-- <img width="50%" src="https://github-readme-stats.vercel.app/api?username=paulzay&show_icons=true&hide_border=true" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulzay&show_icons=true&theme=light&layout=compact&hide_title=true)](https://github.com/paulzay)
  -->
 
-
+<!-- 
 ***Blog***
 
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://paulzay.hashnode.dev/)
@@ -50,4 +50,4 @@ My areas of interest are:
 ![Twitter Follow](https://img.shields.io/twitter/follow/_paulzay_?style=social)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paulogolla/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:paulotieno2@gmail.com)
-
+ -->
