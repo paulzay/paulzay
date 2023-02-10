@@ -29,8 +29,7 @@ My areas of interest are:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 - 🌱 I’m currently learning React Native.
-- 💬 Ask me about anything(as long as I'm allowed to Google it).
-- 😄 Pronouns: He/Him.
+- 💬 Ask me about anything(I'll ask ChatGPT).
 - ⚡ Quote: "Be curious, not judgemental." - Ted Lasso
 <!-- - <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31kw2ohislzzpjiqratgwazixfiy&redirect=true">
   <img align="center" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31kw2ohislzzpjiqratgwazixfiy&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" />
