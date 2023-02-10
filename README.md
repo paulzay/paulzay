@@ -10,7 +10,7 @@ My name is Paul and I'm a solutions expert but I also go by Software Engineer.
 My areas of interest are:
 
 - Full Stack Web Development
-- Mobile Development with Flutter & Kotlin
+- Mobile Development with Flutter
 
 **Languages I use**
 
