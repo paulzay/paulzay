@@ -5,7 +5,7 @@
 
 ### Hi there! 👋
 
-My name is Paul and I'm a solutions expert but I also go by Software Engineer.
+My name is Paul and I go by Software Engineer.
 
 My areas of interest are:
 
