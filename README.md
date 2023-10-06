@@ -28,7 +28,7 @@ My areas of interest are:
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-- 🌱 I’m currently learning Javascript. It never ends.
+- 🌱 I’m currently learning C.
 - 💬 Ask me about anything(I'll ask ChatGPT).
 - ⚡ Quote: "Be curious, not judgemental." - Ted Lasso
 <!-- - <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31kw2ohislzzpjiqratgwazixfiy&redirect=true">
