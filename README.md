@@ -10,7 +10,7 @@ My name is Paul and I go by Software Engineer.
 My areas of interest are:
 
 - Full Stack Software Development
-- Mobile Development with Flutter
+- Mobile Development with Flutter & React Native
 
 **Languages I use**
 
