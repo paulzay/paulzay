@@ -29,6 +29,9 @@ My areas of interest are:
 
 - 🌱 I’m currently learning Python, always learning JavaScript.
 - ⚡ Quote: "Be curious, not judgemental." - Ted Lasso
+<div align="start">
+<img src="https://komarev.com/ghpvc/?username=paulzay&&style=flat-square" align="center" />
+</div>  
 <!-- - <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31kw2ohislzzpjiqratgwazixfiy&redirect=true">
   <img align="center" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31kw2ohislzzpjiqratgwazixfiy&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" />
 </a> -->
@@ -42,7 +45,8 @@ My areas of interest are:
 ***Blog***
 
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://paulzay.hashnode.dev/)
- 
+
+
 **How to reach me:**  
 ![Twitter Follow](https://img.shields.io/twitter/follow/_paulzay_?style=social)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paulogolla/)
