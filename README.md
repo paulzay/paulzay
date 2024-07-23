@@ -30,7 +30,7 @@ My areas of interest are:
 - 🌱 I’m currently learning Python, always learning JavaScript.
 - ⚡ Quote: "Be curious, not judgemental." - Ted Lasso
 <div align="start">
-<img src="https://komarev.com/ghpvc/?username=paulzay&&style=flat-square" align="center" />
+<!-- <img src="https://komarev.com/ghpvc/?username=paulzay&&style=flat-square" align="center" /> -->
 </div>  
 <!-- - <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31kw2ohislzzpjiqratgwazixfiy&redirect=true">
   <img align="center" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31kw2ohislzzpjiqratgwazixfiy&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" />
